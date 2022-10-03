@@ -1,4 +1,13 @@
-# Microtica
+<br />
+<p align="center">
+    <a href="https://microtica.com" target="_blank"><img width="100px" src="https://microtica.s3.eu-central-1.amazonaws.com/assets/templates/logos/microtica.jpeg" alt="Microtica Logo"></a>
+    <br />
+    <br />
+    <b>The infrastructure you need - without DevOps effort 🚀</b>
+    <br />
+    <br />
+</p>
+
 [Website](https://bit.ly/3V0OZPB) | [Self-service Portal](https://bit.ly/3RxrdYL) | [Documentation](https://bit.ly/3M0jsJv) | [Discord](https://discord.gg/ADaFvAsakW)
 
 🚀 Microtica is a DevOps automation platform that enables developers to build solutions on AWS without ever opening the console.
